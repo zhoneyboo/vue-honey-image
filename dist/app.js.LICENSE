@@ -1,0 +1,282 @@
+/*!
+ * Vue.js v2.6.10
+ * (c) 2014-2019 Evan You
+ * Released under the MIT License.
+ */
+
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"0a85af55-vue-loader-template"}!./node_modules/poi/node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--2-0!./node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./src/Scope.vue?vue&type=template&id=4c74502b&scoped=true& ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*! exports provided: render, staticRenderFns */
+
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"0a85af55-vue-loader-template"}!./node_modules/poi/node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--2-0!./node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./src/SvgPanZoom.vue?vue&type=template&id=806a3476& ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"0a85af55-vue-loader-template"}!./node_modules/poi/node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--2-0!./node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./src/SvgPanZoomThumbnail.vue?vue&type=template&id=4cd02652& ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader??ref--3-oneOf-1-1!./node_modules/poi/node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/cache-loader/dist/cjs.js??ref--2-0!./node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./src/Scope.vue?vue&type=style&index=0&id=4c74502b&scoped=true&lang=css& ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*! no static exports found */
+
+/*! ../node_modules/css-loader/lib/css-base.js */
+
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader??ref--3-oneOf-1-1!./node_modules/poi/node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/cache-loader/dist/cjs.js??ref--2-0!./node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./src/SvgPanZoomThumbnail.vue?vue&type=style&index=0&lang=css& ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!*************************************************!*\
+  !*** ./node_modules/css-loader/lib/css-base.js ***!
+  \*************************************************/
+
+/*!******************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/poi/lib/webpack/babel-loader.js??ref--1-0!./node_modules/cache-loader/dist/cjs.js??ref--2-0!./node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./src/Scope.vue?vue&type=script&lang=js& ***!
+  \******************************************************************************************************************************************************************************************************************************/
+
+/*! exports provided: default */
+
+/*!***********************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/poi/lib/webpack/babel-loader.js??ref--1-0!./node_modules/cache-loader/dist/cjs.js??ref--2-0!./node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./src/SvgPanZoom.vue?vue&type=script&lang=js& ***!
+  \***********************************************************************************************************************************************************************************************************************************/
+
+/*! svg-pan-zoom */
+
+/*! ./props */
+
+/*! ./EventBus */
+
+/*! ./SvgPanZoomThumbnail.vue */
+
+/*! ./SvgPanZoomApi */
+
+/*!********************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/poi/lib/webpack/babel-loader.js??ref--1-0!./node_modules/cache-loader/dist/cjs.js??ref--2-0!./node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./src/SvgPanZoomThumbnail.vue?vue&type=script&lang=js& ***!
+  \********************************************************************************************************************************************************************************************************************************************/
+
+/*! ./Scope.vue */
+
+/*! ./SvgPanZoom.vue */
+
+/*!*************************************************************************************!*\
+  !*** ./node_modules/poi/node_modules/vue-loader/lib/runtime/componentNormalizer.js ***!
+  \*************************************************************************************/
+
+/*!*****************************************!*\
+  !*** ./node_modules/process/browser.js ***!
+  \*****************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/setimmediate/setImmediate.js ***!
+  \***************************************************/
+
+/*! ./../webpack/buildin/global.js */
+
+/*! ./../process/browser.js */
+
+/*!*****************************************************!*\
+  !*** ./node_modules/svg-pan-zoom/src/browserify.js ***!
+  \*****************************************************/
+
+/*! ./svg-pan-zoom.js */
+
+/*!********************************************************!*\
+  !*** ./node_modules/svg-pan-zoom/src/control-icons.js ***!
+  \********************************************************/
+
+/*! ./svg-utilities */
+
+/*!**********************************************************!*\
+  !*** ./node_modules/svg-pan-zoom/src/shadow-viewport.js ***!
+  \**********************************************************/
+
+/*! ./utilities */
+
+/*!*******************************************************!*\
+  !*** ./node_modules/svg-pan-zoom/src/svg-pan-zoom.js ***!
+  \*******************************************************/
+
+/*! ./uniwheel */
+
+/*! ./control-icons */
+
+/*! ./shadow-viewport */
+
+/*!********************************************************!*\
+  !*** ./node_modules/svg-pan-zoom/src/svg-utilities.js ***!
+  \********************************************************/
+
+/*!***************************************************!*\
+  !*** ./node_modules/svg-pan-zoom/src/uniwheel.js ***!
+  \***************************************************/
+
+/*!****************************************************!*\
+  !*** ./node_modules/svg-pan-zoom/src/utilities.js ***!
+  \****************************************************/
+
+/*!************************************************!*\
+  !*** ./node_modules/timers-browserify/main.js ***!
+  \************************************************/
+
+/*! setimmediate */
+
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-style-loader??ref--3-oneOf-1-0!./node_modules/css-loader??ref--3-oneOf-1-1!./node_modules/poi/node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/cache-loader/dist/cjs.js??ref--2-0!./node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./src/Scope.vue?vue&type=style&index=0&id=4c74502b&scoped=true&lang=css& ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*! !../node_modules/css-loader??ref--3-oneOf-1-1!../node_modules/poi/node_modules/vue-loader/lib/loaders/stylePostLoader.js!../node_modules/cache-loader/dist/cjs.js??ref--2-0!../node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./Scope.vue?vue&type=style&index=0&id=4c74502b&scoped=true&lang=css& */
+
+/*! ../node_modules/vue-style-loader/lib/addStylesClient.js */
+
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-style-loader??ref--3-oneOf-1-0!./node_modules/css-loader??ref--3-oneOf-1-1!./node_modules/poi/node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/cache-loader/dist/cjs.js??ref--2-0!./node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./src/SvgPanZoomThumbnail.vue?vue&type=style&index=0&lang=css& ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*! !../node_modules/css-loader??ref--3-oneOf-1-1!../node_modules/poi/node_modules/vue-loader/lib/loaders/stylePostLoader.js!../node_modules/cache-loader/dist/cjs.js??ref--2-0!../node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./SvgPanZoomThumbnail.vue?vue&type=style&index=0&lang=css& */
+
+/*!**************************************************************!*\
+  !*** ./node_modules/vue-style-loader/lib/addStylesClient.js ***!
+  \**************************************************************/
+
+/*! ./listToStyles */
+
+/*!***********************************************************!*\
+  !*** ./node_modules/vue-style-loader/lib/listToStyles.js ***!
+  \***********************************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/vue/dist/vue.runtime.esm.js ***!
+  \**************************************************/
+
+/*!
+ * Vue.js v2.5.13
+ * (c) 2014-2017 Evan You
+ * Released under the MIT License.
+ */
+
+/*! ./../../webpack/buildin/global.js */
+
+/*! ./../../timers-browserify/main.js */
+
+/*!***********************************!*\
+  !*** (webpack)/buildin/global.js ***!
+  \***********************************/
+
+/*!*************************!*\
+  !*** ./src/EventBus.js ***!
+  \*************************/
+
+/*! exports provided: EventBus */
+
+/*! vue */
+
+/*!***********************!*\
+  !*** ./src/Scope.vue ***!
+  \***********************/
+
+/*! ./Scope.vue?vue&type=template&id=4c74502b&scoped=true& */
+
+/*! ./Scope.vue?vue&type=script&lang=js& */
+
+/*! ./Scope.vue?vue&type=style&index=0&id=4c74502b&scoped=true&lang=css& */
+
+/*! ../node_modules/poi/node_modules/vue-loader/lib/runtime/componentNormalizer.js */
+
+/*!************************************************!*\
+  !*** ./src/Scope.vue?vue&type=script&lang=js& ***!
+  \************************************************/
+
+/*! -!../node_modules/poi/lib/webpack/babel-loader.js??ref--1-0!../node_modules/cache-loader/dist/cjs.js??ref--2-0!../node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./Scope.vue?vue&type=script&lang=js& */
+
+/*!********************************************************************************!*\
+  !*** ./src/Scope.vue?vue&type=style&index=0&id=4c74502b&scoped=true&lang=css& ***!
+  \********************************************************************************/
+
+/*! -!../node_modules/vue-style-loader??ref--3-oneOf-1-0!../node_modules/css-loader??ref--3-oneOf-1-1!../node_modules/poi/node_modules/vue-loader/lib/loaders/stylePostLoader.js!../node_modules/cache-loader/dist/cjs.js??ref--2-0!../node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./Scope.vue?vue&type=style&index=0&id=4c74502b&scoped=true&lang=css& */
+
+/*!******************************************************************!*\
+  !*** ./src/Scope.vue?vue&type=template&id=4c74502b&scoped=true& ***!
+  \******************************************************************/
+
+/*! -!cache-loader?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"0a85af55-vue-loader-template"}!../node_modules/poi/node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../node_modules/cache-loader/dist/cjs.js??ref--2-0!../node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./Scope.vue?vue&type=template&id=4c74502b&scoped=true& */
+
+/*!****************************!*\
+  !*** ./src/SvgPanZoom.vue ***!
+  \****************************/
+
+/*! ./SvgPanZoom.vue?vue&type=template&id=806a3476& */
+
+/*! ./SvgPanZoom.vue?vue&type=script&lang=js& */
+
+/*!*****************************************************!*\
+  !*** ./src/SvgPanZoom.vue?vue&type=script&lang=js& ***!
+  \*****************************************************/
+
+/*! -!../node_modules/poi/lib/webpack/babel-loader.js??ref--1-0!../node_modules/cache-loader/dist/cjs.js??ref--2-0!../node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./SvgPanZoom.vue?vue&type=script&lang=js& */
+
+/*!***********************************************************!*\
+  !*** ./src/SvgPanZoom.vue?vue&type=template&id=806a3476& ***!
+  \***********************************************************/
+
+/*! -!cache-loader?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"0a85af55-vue-loader-template"}!../node_modules/poi/node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../node_modules/cache-loader/dist/cjs.js??ref--2-0!../node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./SvgPanZoom.vue?vue&type=template&id=806a3476& */
+
+/*!******************************!*\
+  !*** ./src/SvgPanZoomApi.js ***!
+  \******************************/
+
+/*! exports provided: SvgPanZoomApi */
+
+/*!*************************************!*\
+  !*** ./src/SvgPanZoomThumbnail.vue ***!
+  \*************************************/
+
+/*! ./SvgPanZoomThumbnail.vue?vue&type=template&id=4cd02652& */
+
+/*! ./SvgPanZoomThumbnail.vue?vue&type=script&lang=js& */
+
+/*! ./SvgPanZoomThumbnail.vue?vue&type=style&index=0&lang=css& */
+
+/*!**************************************************************!*\
+  !*** ./src/SvgPanZoomThumbnail.vue?vue&type=script&lang=js& ***!
+  \**************************************************************/
+
+/*! -!../node_modules/poi/lib/webpack/babel-loader.js??ref--1-0!../node_modules/cache-loader/dist/cjs.js??ref--2-0!../node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./SvgPanZoomThumbnail.vue?vue&type=script&lang=js& */
+
+/*!**********************************************************************!*\
+  !*** ./src/SvgPanZoomThumbnail.vue?vue&type=style&index=0&lang=css& ***!
+  \**********************************************************************/
+
+/*! -!../node_modules/vue-style-loader??ref--3-oneOf-1-0!../node_modules/css-loader??ref--3-oneOf-1-1!../node_modules/poi/node_modules/vue-loader/lib/loaders/stylePostLoader.js!../node_modules/cache-loader/dist/cjs.js??ref--2-0!../node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./SvgPanZoomThumbnail.vue?vue&type=style&index=0&lang=css& */
+
+/*!********************************************************************!*\
+  !*** ./src/SvgPanZoomThumbnail.vue?vue&type=template&id=4cd02652& ***!
+  \********************************************************************/
+
+/*! -!cache-loader?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"0a85af55-vue-loader-template"}!../node_modules/poi/node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../node_modules/cache-loader/dist/cjs.js??ref--2-0!../node_modules/poi/node_modules/vue-loader/lib??vue-loader-options!./SvgPanZoomThumbnail.vue?vue&type=template&id=4cd02652& */
+
+/*!**********************!*\
+  !*** ./src/index.js ***!
+  \**********************/
+
+/*! exports provided: SvgPanZoom, default */
+
+/*!**********************!*\
+  !*** ./src/props.js ***!
+  \**********************/
+
+/*!****************************!*\
+  !*** multi ./src/index.js ***!
+  \****************************/
+
+/*! ./src/index.js */
+
+/*!
+ * Determine if an object is a Buffer
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
